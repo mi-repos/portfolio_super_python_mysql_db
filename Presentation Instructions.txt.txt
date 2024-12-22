@@ -1,0 +1,36 @@
+-----------------------------------------------------------------
+Presentation Projects:
+
+
+Project name: 
+	# student_attendance-go
+Database name:
+	# student_attendance
+
+$ go run main.go
+
+-----------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------
+Project name: 
+	# student_attendance-go
+Database name:
+	# student_attendance
+
+-----------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------
+Project name: 
+	# student_attendance-go
+Database name:
+	# student_attendance
+
+-----------------------------------------------------------------
